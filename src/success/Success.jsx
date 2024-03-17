@@ -32,6 +32,7 @@ const Success = () => {
                 <img className=" rounded-[25px]" src= {successimg4} alt="img" />
             </div>
           </div>
+          <button className="w-[145px] h-[44px] bg-[#ee160a] text-[#ffffff] text-[14px] font-semibold leading-[24px] rounded-[5px] ml-[560px] mt-10 ">See More</button>
         </div>
       </section>
     </>
